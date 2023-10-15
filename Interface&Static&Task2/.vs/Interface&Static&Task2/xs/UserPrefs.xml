@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F6EFA1D3-A0CB-4CA8-84F4-D4983DB43B05}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface&amp;Static&amp;Task2/Program.cs">
+    <Files>
+      <File FileName="Interface&amp;Static&amp;Task2/Program.cs" Line="51" Column="2" />
+      <File FileName="Interface&amp;Static&amp;Task2/Extensions/Helper.cs" Line="77" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface&amp;Static&amp;Task2" expanded="True">
+            <Node name="Interface&amp;Static&amp;Task2" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Interface_226Static_226Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

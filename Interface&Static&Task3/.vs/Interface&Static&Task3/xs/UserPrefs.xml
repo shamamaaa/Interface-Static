@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B7B0ACBC-FE49-4C58-AFC4-B504619804D4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface&amp;Static&amp;Task3/Extension/Helper.cs">
+    <Files>
+      <File FileName="Interface&amp;Static&amp;Task3/Program.cs" />
+      <File FileName="Interface&amp;Static&amp;Task3/Models/Student.cs" />
+      <File FileName="Interface&amp;Static&amp;Task3/Models/Group.cs" />
+      <File FileName="Interface&amp;Static&amp;Task3/Extension/Helper.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface&amp;Static&amp;Task3" expanded="True">
+            <Node name="Interface&amp;Static&amp;Task3" expanded="True">
+              <Node name="Extension" expanded="True">
+                <Node name="Helper.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Interface_226Static_226Task3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

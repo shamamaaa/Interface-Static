@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5C3016E8-62B4-4F70-AFCA-4F0ED0C04973}|Default">
+  <MonoDevelop.Ide.ItemProperties.Interface_226Static_226Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interface&amp;Static&amp;Task1/Program.cs">
+    <Files>
+      <File FileName="Interface&amp;Static&amp;Task1/Program.cs" Line="1" Column="1" />
+      <File FileName="Interface&amp;Static&amp;Task1/Models/Student.cs" Line="28" Column="1" />
+      <File FileName="Interface&amp;Static&amp;Task1/Interfaces/ICodeAcademy.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface&amp;Static&amp;Task1" expanded="True">
+            <Node name="Interface&amp;Static&amp;Task1" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

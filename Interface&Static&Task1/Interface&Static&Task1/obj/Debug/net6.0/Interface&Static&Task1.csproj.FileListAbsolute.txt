@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/bin/Debug/net6.0/Interface&Static&Task1
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/bin/Debug/net6.0/Interface&Static&Task1.deps.json
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/bin/Debug/net6.0/Interface&Static&Task1.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/bin/Debug/net6.0/Interface&Static&Task1.dll
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/bin/Debug/net6.0/Interface&Static&Task1.pdb
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.dll
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/refint/Interface&Static&Task1.dll
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.pdb
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/Interface&Static&Task1.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/Interface&Static&Task1/Interface&Static&Task1/obj/Debug/net6.0/ref/Interface&Static&Task1.dll
